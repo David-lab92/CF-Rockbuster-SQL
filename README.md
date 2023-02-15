@@ -1,2 +1,2 @@
 # Rockbuster
-This repository contains all my SQL queries used in the project.
+This repository contains my SQL queries used in a Movie Rental Project.
