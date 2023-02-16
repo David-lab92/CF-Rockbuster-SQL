@@ -1,6 +1,6 @@
 # Rockbuster
-This repository contains my SQL queries used in a Movie Rental Project.
 
+This repository contains a SQL-based project investigating a database of a fictitious movie rental company using PostgreSQL. 
 
 #  Objective 
 
@@ -8,12 +8,12 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 #  Data 
 
-The full details of the data are available [here](Downloads)
+The full details of the data are available in the folder _/02 data/_
 
 # Tools
 
 - SQL
-* Tableau - for ![data visualization](https://public.tableau.com/app/profile/carlos.baena/viz/Task10_PresentationResults/Results?publish=yes)
+* Tableau - for [data visualization](https://public.tableau.com/app/profile/carlos.baena/viz/Task10_PresentationResults/Results?publish=yes)
 
 # Results
 
