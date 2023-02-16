@@ -15,5 +15,6 @@ The full details of the data are available in the folder _/02 data/_
 - SQL
 * Tableau - for [data visualization](https://public.tableau.com/app/profile/carlos.baena/viz/Task10_PresentationResults/Results?publish=yes)
 
-# Results
+# Executing code
 
+The code is available as text under _/03 Queries/_
