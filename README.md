@@ -10,6 +10,10 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 The full details of the data are available [here](Downloads)
 
+# Tools
+
+- SQL
+* Tableau - for ![data visualization](https://public.tableau.com/app/profile/carlos.baena/viz/Task10_PresentationResults/Results?publish=yes)
 
 # Results
 
