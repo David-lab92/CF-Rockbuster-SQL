@@ -1,4 +1,4 @@
-# Rockbuster
+# Rockbuster Movie Rental Analysis
 
 This repository contains a SQL-based project investigating a database of a fictitious movie rental company using PostgreSQL. 
 
